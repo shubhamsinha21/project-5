@@ -4,3 +4,4 @@ matplotlib
 seaborn
 notebook
 nltk
+scikit-learn
